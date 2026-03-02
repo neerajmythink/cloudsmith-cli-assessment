@@ -1,0 +1,8 @@
+Getting license policies ... OK
+
+Name                        | Description                                                                                      | Allow Unknown Licenses | Quarantine On Violation | Package Query                   | SPDX Identifiers   | Created                     | Updated                     | Identifier  
+Quarantine Unknown Licenses | This is a policy to quarantine packages with unknown licenses.                                   | false                  | true                    | None                            | ['Aladdin', 'MIT'] | 2026-02-15T03:03:22.041678Z | 2026-02-15T03:03:22.041703Z | dUk4A4iU9v4R
+license-policy-through-cli  | This policy checks for specific licenses in packages and takes action if they are not compliant. | false                  | false                   | format:python AND downloads:>50 | ['MIT']            | 2026-02-15T18:28:03.674470Z | 2026-02-15T18:28:03.674503Z | 8fXdB82v37iU
+
+
+Results: 1-2 (2) of 2 license policies (page: 1/1, page size: 30)
